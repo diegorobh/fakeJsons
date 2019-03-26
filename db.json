@@ -1,72 +1,11 @@
-[
+{
+  "posts": [
     {
-        "name": "Vegetables",
-        "opened": "false",
-        "image": null,
-        "ingredients": [
-            {
-                "name": "Cucumber",
-                "image": null,
-                "selected": false,
-                "id": 3,
-                "price": 0
-            },
-            {
-                "name": "Seaweed Salad",
-                "image": null,
-                "selected": false,
-                "id": 88,
-                "price": 0
-            }
-        ]
-    },
-    {
-        "name": "Carbohydrates",
-        "opened": "false",
-        "image": null,
-        "ingredients": [
-            {
-                "name": "Tempura Flakes",
-                "image": null,
-                "selected": false,
-                "id": 52,
-                "price": 0
-            }
-        ]
-    },
-    {
-        "name": "Proteins",
-        "opened": "false",
-        "image": null,
-        "ingredients": [
-            {
-                "name": "Fish Eggs",
-                "image": null,
-                "selected": false,
-                "id": 80,
-                "price": 0
-            },
-            {
-                "name": "Tuna ",
-                "image": null,
-                "selected": false,
-                "id": 23,
-                "price": 0
-            }
-        ]
-    },
-    {
-        "name": "Sauces",
-        "opened": "false",
-        "image": null,
-        "ingredients": [
-            {
-                "name": "Regular Mayo",
-                "image": null,
-                "selected": false,
-                "id": 67,
-                "price": 0
-            }
-        ]
+      "id": 1,
+      "title": "hello"
     }
-]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
